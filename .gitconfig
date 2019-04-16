@@ -1,0 +1,5 @@
+[user]
+    email = pw1316@outlook.com
+    name = Zheqi Yu
+[core]
+	autocrlf = false
