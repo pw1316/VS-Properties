@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "workbench.iconTheme": "vscode-icons",
+    "svn.enableProposedApi": "product",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintArgs": [
+        "--ignored-modules", "tensorflow,LazyLoader,cv2"
+    ],
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.intelliSenseCacheSize": 128,
+    "editor.renderWhitespace": "all",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.eol": "\n"
+}
