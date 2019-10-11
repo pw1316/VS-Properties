@@ -1,19 +1,20 @@
 {
+    "editor.renderWhitespace": "all",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.eol": "\n",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
     "C_Cpp.default.cppStandard": "c++11",
     "C_Cpp.default.cStandard": "c11",
     "C_Cpp.intelliSenseCacheSize": 128,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "editor.renderWhitespace": "all",
-    "files.eol": "\n",
-    "python.linting.pep8Enabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
     "python.linting.pylintEnabled": true,
     "python.linting.pylintArgs": [
         "--ignored-modules",
-        "tensorflow,LazyLoader,cv2"
+        "tensorflow,LazyLoader,cv2,pycuda"
     ],
-    "svn.enableProposedApi": "product",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-    "terminal.integrated.shell.linux": "/usr/bin/zsh",
-    "workbench.colorTheme": "One Dark Pro",
-    "workbench.iconTheme": "vscode-icons"
+    "svn.enableProposedApi": "product"
 }
