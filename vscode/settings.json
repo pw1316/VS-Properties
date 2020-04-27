@@ -6,7 +6,7 @@
     "workbench.iconTheme": "vscode-icons",
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
     "terminal.integrated.shell.linux": "/usr/bin/zsh",
-    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.cppStandard": "c++17",
     "C_Cpp.default.cStandard": "c11",
     "C_Cpp.intelliSenseCacheSize": 128,
     "python.linting.pydocstyleEnabled": true,
