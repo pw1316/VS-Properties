@@ -1,6 +1,5 @@
-# VS-Properties
+# Configs
 
-自用Visual Studio项目属性文件
+All kinds of configs for my softwares.
 
-- Build：可执行程序基础
-- DirectX：DXSDK的引用目录和库目录
+The relative path of each file to work directory is the relative path to home directory `~` where the file should be.
